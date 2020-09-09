@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BOCircleProgressView_Example' do
+  pod 'BOCircleProgressView', :path => '../'
+
+  target 'BOCircleProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
