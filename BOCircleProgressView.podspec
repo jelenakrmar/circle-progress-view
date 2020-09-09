@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = 'https://github.com/jelenakrmar/circle-progress-view'
-   s.screenshots     = 'https://github.com/jelenakrmar/circle-progress-view/blob/master/Screenshot.png'
+   s.screenshots     = 'https://raw.githubusercontent.com/jelenakrmar/circle-progress-view/master/Screenshot.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jelenakrmar' => 'https://github.com/jelenakrmar' }
   s.source           = { :git => 'https://github.com/jelenakrmar/circle-progress-view.git', :tag => s.version.to_s }
