@@ -1,0 +1,6 @@
+framework module BOCircleProgressView {
+  umbrella header "BOCircleProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

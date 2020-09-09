@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		057212B01B5F26CA52911076 /* BOCircleProgressView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BOCircleProgressView.podspec; path = ../BOCircleProgressView.podspec; sourceTree = "<group>"; };
-		2F7C19A39E3E430E99C7CBF8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		057212B01B5F26CA52911076 /* BOCircleProgressView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BOCircleProgressView.podspec; path = ../BOCircleProgressView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2F7C19A39E3E430E99C7CBF8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3A17EBAE73E0F68DCA1AB560 /* Pods_BOCircleProgressView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BOCircleProgressView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F432C3117990A633335500 /* Pods-BOCircleProgressView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BOCircleProgressView_Tests.release.xcconfig"; path = "Target Support Files/Pods-BOCircleProgressView_Tests/Pods-BOCircleProgressView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* BOCircleProgressView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BOCircleProgressView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,7 +42,7 @@
 		607FACE51AFB9204008FA782 /* BOCircleProgressView_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BOCircleProgressView_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7200F0F7B920F78095AF232E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7200F0F7B920F78095AF232E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		7C4B5B451BF7A95195732B0B /* Pods-BOCircleProgressView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BOCircleProgressView_Example.release.xcconfig"; path = "Target Support Files/Pods-BOCircleProgressView_Example/Pods-BOCircleProgressView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		85BB13591697B06C04A9C262 /* Pods-BOCircleProgressView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BOCircleProgressView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-BOCircleProgressView_Tests/Pods-BOCircleProgressView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BD237E594566B7A717F66019 /* Pods-BOCircleProgressView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BOCircleProgressView_Example.debug.xcconfig"; path = "Target Support Files/Pods-BOCircleProgressView_Example/Pods-BOCircleProgressView_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -86,7 +86,6 @@
 				85BB13591697B06C04A9C262 /* Pods-BOCircleProgressView_Tests.debug.xcconfig */,
 				42F432C3117990A633335500 /* Pods-BOCircleProgressView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

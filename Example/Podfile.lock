@@ -1,0 +1,16 @@
+PODS:
+  - BOCircleProgressView (0.1.0)
+
+DEPENDENCIES:
+  - BOCircleProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  BOCircleProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BOCircleProgressView: e21338443903c2d31f9416908a354430f2408398
+
+PODFILE CHECKSUM: 087e6305c8906a51f0675e3566b9f4d484c15e69
+
+COCOAPODS: 1.9.1

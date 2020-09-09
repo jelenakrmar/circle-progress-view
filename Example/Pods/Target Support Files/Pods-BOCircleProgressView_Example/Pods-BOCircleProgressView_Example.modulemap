@@ -1,0 +1,6 @@
+framework module Pods_BOCircleProgressView_Example {
+  umbrella header "Pods-BOCircleProgressView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
