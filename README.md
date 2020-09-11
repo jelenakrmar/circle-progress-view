@@ -30,7 +30,7 @@ You can change:
 - `invalidPercentageText` (text that appears if the percentage value is negative; defaults to N/A) 
 - `width` (ring width)
 
-<img src="https://raw.githubusercontent.com/jelenakrmar/circle-progress-view/master/Screenshot.png" width="375px" height="667px" style="border: 1px solid #ccc" />
+<img src="https://raw.githubusercontent.com/jelenakrmar/circle-progress-view/master/Screenshot.png" width="375px" height="667px" style="border: 1px solid #333" />
 
 ## License
 
