@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/cocoapods/l/BOCircleProgressView.svg?style=flat)](https://cocoapods.org/pods/BOCircleProgressView)
 [![Platform](https://img.shields.io/cocoapods/p/BOCircleProgressView.svg?style=flat)](https://cocoapods.org/pods/BOCircleProgressView)
 
+BOCircleProgressView is used to display completion percentage in a circular (ring-like) component. You can change the color, size and with of the circular progress indicator and initialize it either from Storyboard or from the code.
+
+
 ## Installation
 
 BOCircleProgressView is available through [CocoaPods](https://cocoapods.org). To install
@@ -26,6 +29,8 @@ You can change:
 - `progressLabelFont` (font of the label displaying the percentage) 
 - `invalidPercentageText` (text that appears if the percentage value is negative; defaults to N/A) 
 - `width` (ring width)
+
+<img src="https://raw.githubusercontent.com/jelenakrmar/circle-progress-view/master/Screenshot.png">
 
 ## License
 
